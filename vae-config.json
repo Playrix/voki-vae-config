@@ -4,7 +4,7 @@
   "modules": {
     "customFields":      { "enabled": true, "reason": "" },
     "timeEntryActions":  { "enabled": true, "reason": "" },
-    "workloadHolidays":  { "enabled": true, "reason": "" }
+    "workloadHolidays":  { "enabled": false, "reason": "" }
   },
   "updatedAt": "2026-05-14T00:00:00Z"
 }
