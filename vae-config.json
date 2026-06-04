@@ -16,7 +16,6 @@
         "mode": "allowlist",
         "reason": "Модуль доступен ограниченному кругу пользователей",
         "emails": [
-          "aleksei.panin@vokigames.com",
           "anastasiya.smirnova@vokigames.com",
           "anya.machuska@vokigames.com",
           "hanna.yatsenko@vokigames.com",
