@@ -1,10 +1,33 @@
 {
-  "version": "1.1.3",
   "globalEnabled": true,
   "modules": {
-    "customFields":      { "enabled": true, "reason": "" },
-    "timeEntryActions":  { "enabled": true, "reason": "" },
-    "workloadHolidays":  { "enabled": true, "reason": "" }
-  },
-  "updatedAt": "2026-05-18T00:00:00Z"
+    "customFields": {
+      "enabled": true
+    },
+    "timeEntryActions": {
+      "enabled": true
+    },
+    "workloadHolidays": {
+      "enabled": true
+    },
+    "meetCaptions": {
+      "enabled": true,
+      "access": {
+        "mode": "allowlist",
+        "reason": "Модуль доступен ограниченному кругу пользователей",
+        "emails": [
+          "aleksei.panin@vokigames.com",
+          "anastasiya.smirnova@vokigames.com",
+          "anya.machuska@vokigames.com",
+          "hanna.yatsenko@vokigames.com",
+          "veranika.tsyhel@vokigames.com",
+          "volodymyr.lavrinenko@vokigames.com",
+          "iryna.troshkina@vokigames.com",
+          "alisa.horbachova@vokigames.com",
+          "kirill.nenahov@vokigames.com",
+          "denis.stoliar@vokigames.com"
+        ]
+      }
+    }
+  }
 }
