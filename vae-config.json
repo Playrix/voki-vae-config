@@ -13,6 +13,9 @@
     "expandSubtasks": {
       "enabled": true
     },
+    "copyTaskLink": {
+      "enabled": true
+    },
     "meetCaptions": {
       "enabled": true,
       "access": {
